@@ -8,8 +8,8 @@
         "Mongo DB"
     ],
     "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MRK-YT/Pro-Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/mo_tech_yt/26",
+    "repository": "https://github.com/Kuttu22/cy-HYBRID",
+    "success_url": "https://github.com/Kuttu22/cy-HYBRID",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
